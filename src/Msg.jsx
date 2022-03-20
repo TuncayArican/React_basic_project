@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 
 const pStyle = {
+  fontSize: "2rem",
   display: "flex",
   height: "100vh",
   backgroundColor: "aqua",
